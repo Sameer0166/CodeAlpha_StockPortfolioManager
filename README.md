@@ -7,7 +7,13 @@ Follow on-screen prompts to input stock symbols and quantities. Choose file savi
 - Add real-time price fetching via APIs
 - Build a GUI for easier use
 - Add portfolio analytics and charts
-
+## Installation
+1. Ensure Python 3.x is installed  
+2. Clone this repository:  
+git clone https://github.com/Sameer0166/CodeAlpha_StockPortfolioManager.git
+3. Navigate to the project folder:  
+cd CodeAlpha_StockPortfolioManager
+undefined
 ## Author  
 Mohd Sameer Pasha – [sameerpasha0166@gmail.com](mailto:sameerpasha0166@gmail.com)  
 LinkedIn: [www.linkedin.com/in/mohd-sameer-pasha-987785363](https://www.linkedin.com/in/mohd-sameer-pasha-987785363)  
